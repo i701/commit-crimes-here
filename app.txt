@@ -1,0 +1,6 @@
+Project: Insurance App
+Version: 1.0.5 - Hotfix Applied
+Status: Development
+
+
+# This is a big change to my amazing blazing fast app. Hooray!
